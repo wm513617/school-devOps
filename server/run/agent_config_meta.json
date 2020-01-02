@@ -1,0 +1,357 @@
+{
+  "keys": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+  "middleware": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "port": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+      "hostname": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+      "path": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "notfound": {
+    "pageUrl": "e:\\school\\校园平台运维\\server\\config\\config.default.js"
+  },
+  "compress": {
+    "threshold": "e:\\school\\校园平台运维\\server\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "dir": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "dynamic": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "preload": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "maxAge": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "buffer": "e:\\school\\校园平台运维\\server\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "e:\\school\\校园平台运维\\server\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "defaultViewEngine": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "mapping": {
+      ".tpl": "e:\\school\\校园平台运维\\server\\config\\config.default.js"
+    },
+    "root": "e:\\school\\校园平台运维\\server\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "e:\\school\\校园平台运维\\server\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "e:\\school\\校园平台运维\\server\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "robot": {
+    "ua": "e:\\school\\校园平台运维\\server\\config\\config.default.js"
+  },
+  "security": {
+    "csrf": {
+      "enable": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+      "type": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+      "value": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js",
+    "hsts": {
+      "enable": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "onerror": {
+    "all": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "errorPageUrl": "e:\\school\\校园平台运维\\server\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "e:\\school\\校园平台运维\\server\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "e:\\school\\校园平台运维\\server\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "jsonLimit": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "enable": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "strict": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "depth": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "jsonp": {
+    "csrf": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "limit": "e:\\school\\校园平台运维\\server\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "e:\\school\\校园平台运维\\server\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "logger": {
+    "level": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "appLogName": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "dir": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "encoding": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "env": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "session": {
+    "renew": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "maxAge": "e:\\school\\校园平台运维\\server\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "e:\\school\\校园平台运维\\server\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "e:\\school\\校园平台运维\\server\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "e:\\school\\校园平台运维\\server\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "mongoose": {
+    "client": {
+      "url": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+      "options": "e:\\school\\校园平台运维\\server\\config\\config.default.js"
+    },
+    "url": "e:\\school\\校园平台运维\\server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "options": "e:\\school\\校园平台运维\\server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "plugins": "e:\\school\\校园平台运维\\server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "loadModel": "e:\\school\\校园平台运维\\server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "app": "e:\\school\\校园平台运维\\server\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "agent": "e:\\school\\校园平台运维\\server\\node_modules\\egg-mongoose\\config\\config.default.js"
+  },
+  "influx": {
+    "host": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "port": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "database": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "username": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+    "password": "e:\\school\\校园平台运维\\server\\config\\config.default.js"
+  },
+  "redis": {
+    "client": {
+      "host": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+      "port": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+      "password": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+      "db": "e:\\school\\校园平台运维\\server\\config\\config.default.js"
+    },
+    "default": "e:\\school\\校园平台运维\\server\\node_modules\\egg-redis\\config\\config.default.js",
+    "app": "e:\\school\\校园平台运维\\server\\node_modules\\egg-redis\\config\\config.default.js",
+    "agent": "e:\\school\\校园平台运维\\server\\node_modules\\egg-redis\\config\\config.default.js",
+    "supportTimeCommand": "e:\\school\\校园平台运维\\server\\node_modules\\egg-redis\\config\\config.default.js"
+  },
+  "videoDiagnosisHost": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+  "picHost": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+  "videoHost": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+  "storageDevice": "e:\\school\\校园平台运维\\server\\config\\config.default.js",
+  "helper": {
+    "shtml": "e:\\school\\校园平台运维\\server\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "e:\\school\\校园平台运维\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "e:\\school\\校园平台运维\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "e:\\school\\校园平台运维\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "e:\\school\\校园平台运维\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "e:\\school\\校园平台运维\\server\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "e:\\school\\校园平台运维\\server\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "e:\\school\\校园平台运维\\server\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "e:\\school\\校园平台运维\\server\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "e:\\school\\校园平台运维\\server\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "e:\\school\\校园平台运维\\server\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "e:\\school\\校园平台运维\\server\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "e:\\school\\校园平台运维\\server\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "e:\\school\\校园平台运维\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "e:\\school\\校园平台运维\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "e:\\school\\校园平台运维\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "e:\\school\\校园平台运维\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "e:\\school\\校园平台运维\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "e:\\school\\校园平台运维\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "e:\\school\\校园平台运维\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "e:\\school\\校园平台运维\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "e:\\school\\校园平台运维\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "e:\\school\\校园平台运维\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "e:\\school\\校园平台运维\\server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "e:\\school\\校园平台运维\\server\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "e:\\school\\校园平台运维\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "e:\\school\\校园平台运维\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "e:\\school\\校园平台运维\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "e:\\school\\校园平台运维\\server\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "e:\\school\\校园平台运维\\server\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "e:\\school\\校园平台运维\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "e:\\school\\校园平台运维\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "e:\\school\\校园平台运维\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "e:\\school\\校园平台运维\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "e:\\school\\校园平台运维\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "e:\\school\\校园平台运维\\server\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "e:\\school\\校园平台运维\\server\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "e:\\school\\校园平台运维\\server\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "throwOnUndefined": "e:\\school\\校园平台运维\\server\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "trimBlocks": "e:\\school\\校园平台运维\\server\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "lstripBlocks": "e:\\school\\校园平台运维\\server\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "cache": "e:\\school\\校园平台运维\\server\\node_modules\\egg-view-nunjucks\\config\\config.local.js"
+  },
+  "env": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+  "name": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "version": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "description": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "private": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "dotenv": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-influx": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-mongoose": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-redis": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-request": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-nunjucks": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-standard": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "influxdb-nodejs": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "koa-compress": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "lodash": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "moment": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "node-xlsx": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "request": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "request-promise": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "eslint-plugin-node": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "eslint-plugin-promise": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "eslint-plugin-standard": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "webstorm-disable-index": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "stop": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "dev": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "debug": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "lint": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "autod": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "url": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "license": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "logging": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+  "clusterClient": {
+    "maxWaitTime": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "e:\\school\\校园平台运维\\server\\node_modules\\egg\\config\\config.default.js"
+}

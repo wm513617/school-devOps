@@ -1,0 +1,63 @@
+/* 全局样式 在App.vue中引入 
+* @App背景 { #0a111c } 
+* @Header背景 { 1C3054 }
+* @property { Number }
+*/
+
+html {
+  font-size: 16px;
+  font-family: 'Helvetica Neue', Helvetica, Tahoma, 'PingFang SC', 'Hiragino Sans GB', 'Heiti SC', 'Microsoft YaHei',
+    '微软雅黑', 'WenQuanYi Micro Hei', Arial, sans-serif;
+  color: #fff;
+}
+* {
+  box-sizing: border-box;
+}
+body, app {
+  margin: 0;
+  padding: 0;
+  min-width: 1598px;
+  background-color: #0a111c;
+}
+ul, li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+input[type=number] {
+  background-color: #1b3153;
+  border: 1px solid #5676a9;
+  color: #fff;
+  height: 32px;
+  line-height: 32px;
+  border-radius: 5px;
+  padding-left: 10px;
+  width: 50px;
+}
+input[type=number]:focus {
+  outline: 0;
+}
+/*适用于设备监测、录像监测等布局*/
+.content {
+  display: flex
+}
+.content-left {
+  flex-basis: 272px;
+  min-width: 272px;
+  margin-right: 16px;
+  background: #1b3153;
+  overflow: hidden;
+  min-height: 670px;
+}
+.content-main {
+  flex: 1;
+  min-height: 670px;
+  background: #0c1b32;
+}
+.content-style {
+  height: 100%;
+  padding: 20px 0;
+}

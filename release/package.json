@@ -1,0 +1,17 @@
+{
+  "name": "release",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "set NODE_ENV=production && gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "shelljs": "^0.8.3"
+  },
+  "dependencies": {
+  }
+}
